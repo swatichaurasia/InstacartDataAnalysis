@@ -1,2 +1,2 @@
 # InstacartDataAnalysis
-This repository contains analysis and visualisation of various instacart datasets using jupyter notebook through python test using pandas library and sklearn
+This repository contains analysis and visualisation of various instacart datasets using jupyter notebook through python test using pandas library and sklearn for better interpretation of datasets
